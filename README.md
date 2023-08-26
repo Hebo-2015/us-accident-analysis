@@ -4,48 +4,48 @@
 
 ----
 ### 热力图，展示相关系数
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/dcf93efa-9bbb-4122-abdb-14ca537a6e36)
+<img src="../us-accident/assets/1relitu.png" alt="image" style="zoom:72%;" />
 
 ----
-### 不同特征对事故严重成都的影响
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/37847222-739a-46b5-a2bf-b8df3f8eb48e)
+### 不同特征对事故严重程度的影响
+<img src="../us-accident/assets/2tezhengyanzhong.png" alt="image" style="zoom:72%;" />
 
 ----
 ### 特征重要性柱状图
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/b054d6f4-6324-4e23-b0f2-6b25a004f617)
+<img src="../us-accident/assets/2tezhengzhongyao.png" alt="image" style="zoom:72%;" />
 
 
 ------------
 ### 发生事故最多的前10个州
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/72a9f169-81e3-4544-a081-553d97c7554d)
+![image](../us-accident/assets/4tenstate.png)
 
 ------------
 ### 在地图上标出发生事故最多的前10个州
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/1252ae2d-df3b-437e-89a2-0fc4dbde8be9)
+<img src="../us-accident/assets/5maptenstate.png" alt="image" style="zoom:72%;" />
 
 ------------
 ### 地图可视化不同事故等级分布情况（等级1为严重程度最小，等级4为严重程度最大）
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/bf00207b-d233-4d2e-9a75-78ed877f0fb9)
+<img src="../us-accident/assets/6dengjimap.png" alt="image" style="zoom:72%;" />
 
 ------------
 ### 大多数(4.7%)的交通事故对交通流量的影响持续了6小时。
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/6e1732ce-c0ec-495c-a7e4-55cd8ce8e429)
+<img src="../us-accident/assets/7sixhour.png" alt="image" style="zoom:90%;" />
 
 ------------
 ### 2021年是发生事故最多的一年（到2023年3月为止）
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/e82169dd-01d2-4801-916b-6cdd537407d0)
+<img src="../us-accident/assets/8year.png" alt="image" style="zoom:90%;" />
 
 ------------
 ### 平均每天和每小时发生的事故数量
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/7148df0d-0f1b-4e5f-ad4b-b7566e4bb9a8)
+<img src="../us-accident/assets/9dayandhour.png" alt="image" style="zoom:36%;" />
 
 ------------
 ### 可以看出在上下班时间交通事故发生率最高
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/eeeb85ae-5dfe-402b-a7c1-39d25a991f4e)
+<img src="../us-accident/assets/10hour.png" alt="image" style="zoom:90%;" />
 
 ------------
-### 在大多数发生事故的情况下，天气都较为晴朗
-![image](https://github.com/Hebo-2015/us-accident-analysis/assets/142399606/3d306fb0-ef96-42c0-99c8-e6a5a986eb35)
+### 不同道路状况下事故的发生率
+<img src="../us-accident/assets/11road.png" alt="image" style="zoom:72%;" />
 
 ------------
 
@@ -66,5 +66,4 @@
 - plotly: 用于绘制交互式图表
 - folium: 用于绘制地理信息地图
 - sklearn: 用于数据挖掘
-
 
